@@ -1,0 +1,6 @@
+@Swenug.OpenTelemetry.AspNetCore_HostAddress = http://localhost:5114
+
+GET {{Swenug.OpenTelemetry.AspNetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
